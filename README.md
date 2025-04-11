@@ -79,3 +79,31 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haitamkamal/haitamkamal/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/haitamkamal/haitamkamal/output/github-snake.svg" />
 </picture>
+
+<style>
+  h1, h2, h3, h4 {
+    font-family: 'Arial', sans-serif;
+    color: #fff;
+    margin-bottom: 10px;
+  }
+  p {
+    font-family: 'Arial', sans-serif;
+    color: #aaa;
+    font-size: 16px;
+  }
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  img {
+    margin: 10px 5px;
+  }
+  .badge-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+</style>
