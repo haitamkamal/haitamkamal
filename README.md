@@ -1,40 +1,32 @@
-<div align="center">
 
 # 💫 About Me  
-  Passionate software developer 🚀
+- Passionate software developer 🚀
  
-  Currently focused on **React**, **Symfony**, and **C++**  
+- Currently focused on **React**, **Symfony**, and **C++**  
  
-  Always looking to learn and explore new technologies 🌱  
+- Always looking to learn and explore new technologies 🌱  
  
-  Based in **Linux Mint with i3** for a highly efficient workflow 💻
+- Based in **Linux Mint with i3** for a highly efficient workflow 💻
 
-</div>
-
-
-<div align="center">
 
 ### 🌱 I’m currently learning
 
- **React** for frontend development
+ - **React** for frontend development
  
- **Symfony** for backend web applications
+ - **Symfony** for backend web applications
  
- **C++** programming and advanced concepts
+ - **C++** programming and advanced concepts
  
- **Linux commands & system management**  
+ - **Linux commands & system management**  
 
 ### ⚡ Fun fact
 
  I switched to **Linux Mint with i3** for a more efficient workflow 🚀  
-</div>
 
-<div align="center">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haitam-kamal)
 
-</div>
 
 # ⚒️ Languages-Frameworks-Tools ⚒️
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -55,20 +47,6 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
