@@ -6,6 +6,9 @@
 - **C++** programming and advanced concepts  
 - **Linux commands & system management*
 
+### ⚡ Fun fact  
+- I switched to **Linux Mint with i3** for a more efficient workflow 🚀  
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haitam-kamal) 
