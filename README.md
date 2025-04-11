@@ -1,13 +1,18 @@
 # 💫 About Me:
 
+<div align="center">
+
 ### 🌱 I’m currently learning  
 - **React** for frontend development  
 - **Symfony** for backend web applications  
 - **C++** programming and advanced concepts  
-- **Linux commands & system management*
+- **Linux commands & system management**  
 
 ### ⚡ Fun fact  
 - I switched to **Linux Mint with i3** for a more efficient workflow 🚀  
+
+</div>
+
 
 
 ## 🌐 Socials:
