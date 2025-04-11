@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hi there! 👋<br>   I'm [Haitam kamal], a passionate developer always exploring new technologies and improving my skills.<br><br>🌱 I’m currently learning<br><br>Symfony authentication & role-based access<br><br>React & Laravel for full-stack development<br><br>Linux Mint + i3 window manager customization<br><br>Advanced C++ concepts<br>
+🌱 I’m currently learning
+React for frontend development
+
+Symfony for backend web applications
+
+C++ programming and advanced concepts
+
+Linux commands & system management
 
 
 ## 🌐 Socials:
