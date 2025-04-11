@@ -38,24 +38,24 @@
 
 # ⚒️ Languages-Frameworks-Tools ⚒️
 <div align="center">
-  <img width="120" height="120" src="https://img.shields.io/badge/?style=for-the-badge&logo=c%2B%2B" />
-  <img width="120" height="120" src="https://img.shields.io/badge/?style=for-the-badge&logo=html5" />
-  <img width="120" height="120" src="https://img.shields.io/badge/?style=for-the-badge&logo=css3" />
-  <img width="120" height="120" src="https://img.shields.io/badge/?style=for-the-badge&logo=javascript" />
-  <img width="120" height="120" src="https://img.shields.io/badge/?style=for-the-badge&logo=markdown" />
-  <img width="120" height="120" src="https://img.shields.io/badge/?style=for-the-badge&logo=bulma" />
-  <img width="120" height="120" src="https://img.shields.io/badge/?style=for-the-badge&logo=ejs" />
-  <img width="120" height="120" src="https://img.shields.io/badge/?style=for-the-badge&logo=express" />
-  <img width="120" height="120" src="https://img.shields.io/badge/?style=for-the-badge&logo=npm" />
-  <img width="120" height="120" src="https://img.shields.io/badge/?style=for-the-badge&logo=next.js" />
-  <img width="120" height="120" src="https://img.shields.io/badge/?style=for-the-badge&logo=react" />
-  <img width="120" height="120" src="https://img.shields.io/badge/?style=for-the-badge&logo=vite" />
-  <img width="120" height="120" src="https://img.shields.io/badge/?style=for-the-badge&logo=symfony" />
-  <img width="120" height="120" src="https://img.shields.io/badge/?style=for-the-badge&logo=tailwindcss" />
-  <img width="120" height="120" src="https://img.shields.io/badge/?style=for-the-badge&logo=postgresql" />
-  <img width="120" height="120" src="https://img.shields.io/badge/?style=for-the-badge&logo=prisma" />
-  <img width="120" height="120" src="https://img.shields.io/badge/?style=for-the-badge&logo=git" />
-  <img width="120" height="120" src="https://img.shields.io/badge/?style=for-the-badge&logo=github" />
+  <img width="120" height="120" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cplusplus.svg" />
+  <img width="120" height="120" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" />
+  <img width="120" height="120" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg" />
+  <img width="120" height="120" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" />
+  <img width="120" height="120" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/markdown.svg" />
+  <img width="120" height="120" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/bulma.svg" />
+  <img width="120" height="120" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ejs.svg" />
+  <img width="120" height="120" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/express.svg" />
+  <img width="120" height="120" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/npm.svg" />
+  <img width="120" height="120" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nextdotjs.svg" />
+  <img width="120" height="120" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg" />
+  <img width="120" height="120" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/vite.svg" />
+  <img width="120" height="120" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/symfony.svg" />
+  <img width="120" height="120" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tailwindcss.svg" />
+  <img width="120" height="120" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postgresql.svg" />
+  <img width="120" height="120" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/prisma.svg" />
+  <img width="120" height="120" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/git.svg" />
+  <img width="120" height="120" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" />
 </div>
 
 
