@@ -1,10 +1,13 @@
 <div align="center">
 
 # 💫 About Me  
- Passionate software developer 🚀  
- Currently focused on **React**, **Symfony**, and **C++**  
- Always looking to learn and explore new technologies 🌱  
- Based in **Linux Mint with i3** for a highly efficient workflow 💻
+ - Passionate software developer 🚀
+ 
+ - Currently focused on **React**, **Symfony**, and **C++**  
+ 
+ - Always looking to learn and explore new technologies 🌱  
+ 
+ - Based in **Linux Mint with i3** for a highly efficient workflow 💻
 
 </div>
 
