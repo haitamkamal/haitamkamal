@@ -1,26 +1,31 @@
 <div align="center">
 
 # 💫 About Me  
- - Passionate software developer 🚀
+  Passionate software developer 🚀
  
- - Currently focused on **React**, **Symfony**, and **C++**  
+  Currently focused on **React**, **Symfony**, and **C++**  
  
- - Always looking to learn and explore new technologies 🌱  
+  Always looking to learn and explore new technologies 🌱  
  
- - Based in **Linux Mint with i3** for a highly efficient workflow 💻
+  Based in **Linux Mint with i3** for a highly efficient workflow 💻
 
 </div>
 
 
 <div align="center">
 
-### 🌱 I’m currently learning  
- **React** for frontend development  
- **Symfony** for backend web applications  
- **C++** programming and advanced concepts  
+### 🌱 I’m currently learning
+
+ **React** for frontend development
+ 
+ **Symfony** for backend web applications
+ 
+ **C++** programming and advanced concepts
+ 
  **Linux commands & system management**  
 
-### ⚡ Fun fact  
+### ⚡ Fun fact
+
  I switched to **Linux Mint with i3** for a more efficient workflow 🚀  
 </div>
 
