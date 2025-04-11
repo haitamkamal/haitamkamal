@@ -38,24 +38,24 @@
 
 # ⚒️ Languages-Frameworks-Tools ⚒️
 <div align="center">
-  <img width="50" src="https://img.shields.io/badge/-C%2B%2B?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
-  <img width="50" src="https://img.shields.io/badge/-HTML5?logo=html5&logoColor=white&style=for-the-badge" />
-  <img width="50" src="https://img.shields.io/badge/-CSS3?logo=css3&logoColor=white&style=for-the-badge" />
-  <img width="50" src="https://img.shields.io/badge/-JavaScript?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge" />
-  <img width="50" src="https://img.shields.io/badge/-Markdown?logo=markdown&logoColor=white&style=for-the-badge" />
-  <img width="50" src="https://img.shields.io/badge/-Bulma?logo=bulma&logoColor=white&style=for-the-badge" />
-  <img width="50" src="https://img.shields.io/badge/-EJS?logo=ejs&logoColor=black&style=for-the-badge" />
-  <img width="50" src="https://img.shields.io/badge/-Express.js?logo=express&logoColor=%2361DAFB&style=for-the-badge" />
-  <img width="50" src="https://img.shields.io/badge/-NPM?logo=npm&logoColor=white&style=for-the-badge" />
-  <img width="50" src="https://img.shields.io/badge/-Next%20JS?logo=next.js&logoColor=white&style=for-the-badge" />
-  <img width="50" src="https://img.shields.io/badge/-React?logo=react&logoColor=%2361DAFB&style=for-the-badge" />
-  <img width="50" src="https://img.shields.io/badge/-Vite?logo=vite&logoColor=white&style=for-the-badge" />
-  <img width="50" src="https://img.shields.io/badge/-Symfony?logo=symfony&logoColor=white&style=for-the-badge" />
-  <img width="50" src="https://img.shields.io/badge/-TailwindCSS?logo=tailwind-css&logoColor=white&style=for-the-badge" />
-  <img width="50" src="https://img.shields.io/badge/-Postgres?logo=postgresql&logoColor=white&style=for-the-badge" />
-  <img width="50" src="https://img.shields.io/badge/-Prisma?logo=Prisma&logoColor=white&style=for-the-badge" />
-  <img width="50" src="https://img.shields.io/badge/-Git?logo=git&logoColor=white&style=for-the-badge" />
-  <img width="50" src="https://img.shields.io/badge/-GitHub?logo=github&logoColor=white&style=for-the-badge" />
+  <img width="50" src="https://img.shields.io/badge/-C%2B%2B?logo=c%2B%2B&logoColor=white&style=for-the-badge&color=black" />
+  <img width="50" src="https://img.shields.io/badge/-HTML5?logo=html5&logoColor=white&style=for-the-badge&color=black" />
+  <img width="50" src="https://img.shields.io/badge/-CSS3?logo=css3&logoColor=white&style=for-the-badge&color=black" />
+  <img width="50" src="https://img.shields.io/badge/-JavaScript?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge&color=black" />
+  <img width="50" src="https://img.shields.io/badge/-Markdown?logo=markdown&logoColor=white&style=for-the-badge&color=black" />
+  <img width="50" src="https://img.shields.io/badge/-Bulma?logo=bulma&logoColor=white&style=for-the-badge&color=black" />
+  <img width="50" src="https://img.shields.io/badge/-EJS?logo=ejs&logoColor=black&style=for-the-badge&color=black" />
+  <img width="50" src="https://img.shields.io/badge/-Express.js?logo=express&logoColor=%2361DAFB&style=for-the-badge&color=black" />
+  <img width="50" src="https://img.shields.io/badge/-NPM?logo=npm&logoColor=white&style=for-the-badge&color=black" />
+  <img width="50" src="https://img.shields.io/badge/-Next%20JS?logo=next.js&logoColor=white&style=for-the-badge&color=black" />
+  <img width="50" src="https://img.shields.io/badge/-React?logo=react&logoColor=%2361DAFB&style=for-the-badge&color=black" />
+  <img width="50" src="https://img.shields.io/badge/-Vite?logo=vite&logoColor=white&style=for-the-badge&color=black" />
+  <img width="50" src="https://img.shields.io/badge/-Symfony?logo=symfony&logoColor=white&style=for-the-badge&color=black" />
+  <img width="50" src="https://img.shields.io/badge/-TailwindCSS?logo=tailwind-css&logoColor=white&style=for-the-badge&color=black" />
+  <img width="50" src="https://img.shields.io/badge/-Postgres?logo=postgresql&logoColor=white&style=for-the-badge&color=black" />
+  <img width="50" src="https://img.shields.io/badge/-Prisma?logo=Prisma&logoColor=white&style=for-the-badge&color=black" />
+  <img width="50" src="https://img.shields.io/badge/-Git?logo=git&logoColor=white&style=for-the-badge&color=black" />
+  <img width="50" src="https://img.shields.io/badge/-GitHub?logo=github&logoColor=white&style=for-the-badge&color=black" />
 </div>
 
 
