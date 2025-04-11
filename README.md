@@ -1,12 +1,10 @@
 # 💫 About Me:
-🌱 I’m currently learning
-React for frontend development
 
-Symfony for backend web applications
-
-C++ programming and advanced concepts
-
-Linux commands & system management
+### 🌱 I’m currently learning  
+- **React** for frontend development  
+- **Symfony** for backend web applications  
+- **C++** programming and advanced concepts  
+- **Linux commands & system management*
 
 
 ## 🌐 Socials:
