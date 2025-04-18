@@ -64,15 +64,7 @@
   <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitamkamal&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</div>
 
-<!-- GitHub Stats in Markdown (for reference) -->
-<h3>📊 GitHub Stats:</h3>
-<p><img src="https://github-readme-stats.vercel.app/api?username=haitamkamal&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"></p>
-<p><img src="https://nirzak-streak-stats.vercel.app/?user=haitamkamal&theme=dracula&hide_border=false" alt="Streak Stats"></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitamkamal&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"></p>
-
-<hr>
-
-<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=haitamkamal&icon=0&color=0" alt="Visit Count"></a></p>
 
 
