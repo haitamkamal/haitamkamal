@@ -61,7 +61,7 @@
   <img width=390 src="https://nirzak-streak-stats.vercel.app/?user=haitamkamal&theme=dracula&hide_border=false " alt="readme stats" />
   <br/>
 
-  <img width=325 align="center" src="https://visitcount.itsvg.in/api?id=haitamkamal&icon=0&color=0)](https://visitcount.itsvg.in https://github-readme-stats.vercel.app/api/top-langs/?username=haitamkamal&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" >
+  <img width=325 align="center" src="https://visitcount.itsvg.in/api?id=haitamkamal&icon=0&color=0)](https://visitcount.itsvg.in " alt="top langs" >
 
 </div>
 
