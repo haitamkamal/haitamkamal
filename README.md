@@ -33,6 +33,13 @@
 
 <hr/>
 
+<h2 align="center" > ⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center" >
+<img src ="https://skillicons.dev/icons?i=react,tailwindcss,bulma,html,css,vscode,github,vite,git,npm" />
+<img src ="https://skillicons.dev/icons?i=nodejs,javascript,express,postgres,symfony,prisma"/>
+
+</div>
 
 
 # ⚒️ Languages-Frameworks-Tools ⚒️
