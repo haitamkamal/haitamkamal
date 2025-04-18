@@ -60,12 +60,10 @@
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=haitamkamal&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 
   <!-- Streak Stats -->
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitamkamal&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+ <img width="390" src="https://nirzak-streak-stats.vercel.app/?user=haitamkamal&theme=dracula&hide_border=false" alt="readme stats" />
   <br/>
 
-  <!-- Visit Count -->
-  <img width="325" align="center" src="https://visitcount.itsvg.in/api?id=haitamkamal&icon=0&color=0" alt="Visit Count" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitamkamal&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 
 <!-- GitHub Stats in Markdown (for reference) -->
 <h3>📊 GitHub Stats:</h3>
