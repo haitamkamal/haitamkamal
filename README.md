@@ -55,24 +55,26 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center >
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=haitamkamal&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="streak stats" />
+<div align="center">
+  <!-- GitHub Stats -->
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=haitamkamal&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 
-  <img width=390 src="https://nirzak-streak-stats.vercel.app/?user=haitamkamal&theme=dracula&hide_border=false " alt="readme stats" />
+  <!-- Streak Stats -->
+  <img width="390" src="https://nirzak-streak-stats.vercel.app/?user=haitamkamal&theme=dracula&hide_border=false" alt="Streak Stats" />
   <br/>
 
-  <img width=325 align="center" src="https://visitcount.itsvg.in/api?id=haitamkamal&icon=0&color=0)](https://visitcount.itsvg.in " alt="top langs" >
-
+  <!-- Visit Count -->
+  <img width="325" align="center" src="https://visitcount.itsvg.in/api?id=haitamkamal&icon=0&color=0" alt="Visit Count" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=haitamkamal&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!-- GitHub Stats in Markdown (for reference) -->
+<h3>📊 GitHub Stats:</h3>
+<p><img src="https://github-readme-stats.vercel.app/api?username=haitamkamal&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"></p>
+<p><img src="https://nirzak-streak-stats.vercel.app/?user=haitamkamal&theme=dracula&hide_border=false" alt="Streak Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitamkamal&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"></p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=haitamkamal&theme=dracula&hide_border=false)<br/>
+<hr>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haitamkamal&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=haitamkamal&icon=0&color=0)](https://visitcount.itsvg.in)
+<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=haitamkamal&icon=0&color=0" alt="Visit Count"></a></p>
 
 
