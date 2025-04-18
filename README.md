@@ -7,9 +7,12 @@
   <br/>
 
 <div align="center" >
-🔭 I’m currently working on  ** Building my dev environment with Linux Mint + i3wm **
-🌱 I’m currently learning ** Docker, C++, Linux commands & system management **
-⚡ Fun fact ** I can spend hours fixing a bug... and the solution is usually one missing semicolon **
+
+🔭 I’m currently working on **Building my dev environment with Linux Mint + i3wm**
+
+🌱 I’m currently learning **Docker, C++, Linux commands & system management**
+
+⚡ Fun fact **I can spend hours fixing a bug... and the solution is usually one missing semicolon**
 
 </div>
 
