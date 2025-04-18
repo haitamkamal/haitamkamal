@@ -6,30 +6,13 @@
 
   <br/>
 
+<div align="center" >
+🔭 I’m currently working on  ** Building my dev environment with Linux Mint + i3wm **
+🌱 I’m currently learning ** Docker, C++, Linux commands & system management **
+⚡ Fun fact ** I can spend hours fixing a bug... and the solution is usually one missing semicolon **
 
-# 💫 About Me  
-- Passionate software developer 🚀
- 
-- Currently focused on **React**, **Symfony**, and **C++**  
- 
-- Always looking to learn and explore new technologies 🌱  
- 
-- Based in **Linux Mint with i3** for a highly efficient workflow 💻
+</div>
 
-
-### 🌱 I’m currently learning
-
- - **React** for frontend development
- 
- - **Symfony** for backend web applications
- 
- - **C++** programming and advanced concepts
- 
- - **Linux commands & system management**  
-
-### ⚡ Fun fact
-
- I switched to **Linux Mint with i3** for a more efficient workflow 🚀  
 
 
 ## 🌐 Socials:
