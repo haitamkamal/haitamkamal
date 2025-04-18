@@ -60,7 +60,7 @@
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=haitamkamal&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 
   <!-- Streak Stats -->
-  <img width="390" src="https://nirzak-streak-stats.vercel.app/?user=haitamkamal&theme=dracula&hide_border=false" alt="Streak Stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitamkamal&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
   <br/>
 
   <!-- Visit Count -->
